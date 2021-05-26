@@ -7,5 +7,7 @@ public class BranchingPractice {
         //doing more
 
         System.out.println("last");
+
+        //new commit
     }
 }
