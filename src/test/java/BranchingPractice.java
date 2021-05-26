@@ -5,5 +5,7 @@ public class BranchingPractice {
         //shared on github
 
         //doing more
+
+        System.out.println("last");
     }
 }
